@@ -1,54 +1,55 @@
-🛒 Cadastro de Produtos - Product Registration
-Descrição - Description
-Este programa realiza o cadastro de produtos, solicitando ao usuário o nome e o preço de cada item.
-Durante a execução, ele contabiliza:
+🛍️ Cadastro de Produtos | Product Registration 🛍️
+📋 Descrição | Description
+Este programa realiza o cadastro de produtos, perguntando o nome e o preço de cada item. Durante a execução, ele:
 
-O número total de produtos cadastrados;
+📦 Conta o número total de produtos cadastrados;
 
-Qual foi o produto mais caro;
+💸 Mostra qual foi o produto mais caro;
 
-Quantos produtos custaram mais de R$1000;
+🤑 Conta quantos produtos custaram mais de R$1000;
 
-O valor total da compra;
+🧮 Calcula o valor total da compra;
 
-Se o valor total ultrapassar R$5000, uma mensagem especial é exibida.
+🚨 Exibe uma mensagem especial se o valor ultrapassar R$5000.
 
-This program registers products by asking the user for the name and price of each item.
-During execution, it keeps track of:
+This program registers products by asking for the name and price of each item. During execution, it:
 
-The total number of products registered;
+📦 Counts the total number of products registered;
 
-Which product was the most expensive;
+💸 Shows which product was the most expensive;
 
-How many products cost more than R$1000;
+🤑 Counts how many products cost more than R$1000;
 
-The total purchase amount;
+🧮 Calculates the total purchase amount;
 
-If the total purchase exceeds R$5000, a special message is displayed.
+🚨 Displays a special message if the total exceeds R$5000.
 
-Como Usar - How to Use
-Execute o programa.
+⚙️ Como Usar | How to Use
+▶️ Execute o programa | Run the program.
 
-Informe o nome e o preço do produto.
+✍️ Informe o nome e o preço do produto | Enter the product name and price.
 
-Informe se deseja continuar cadastrando mais produtos.
+🔄 Escolha se deseja continuar | Choose whether to continue.
 
-Ao finalizar, veja o resumo da compra.
+🧾 Veja o resumo final | View the final summary.
 
-Run the program.
+🛡️ Regras de Validação | Validation Rules
+🚫 Não é permitido preço negativo | Negative prices are not allowed.
 
-Enter the product name and price.
+✅ Apenas respostas "S" ou "N" para continuar | Only "Y" or "N" responses are accepted (case insensitive).
 
-Choose whether to continue adding more products.
+🎯 Objetivo | Goal
+Facilitar o controle de uma lista de compras, fornecendo dados importantes para o usuário tomar melhores decisões de compra.
 
-At the end, view the purchase summary.
+📣 Observação Extra | Extra Note
+Projeto simples, mas que já aplica conceitos como:
 
-Observação - Note
-O programa impede o cadastro de preços negativos.
+🎯 Laços de repetição while
 
-A confirmação de continuidade aceita apenas "S" ou "N" (não diferencia maiúsculas/minúsculas).
+🧠 Condicionais if
 
-The program prevents negative prices.
+📥 Leitura e validação de entradas
 
-The continuation confirmation accepts only "S" or "N" (case insensitive).
+Ideal para quem está praticando lógica de programação! 🖥️✨
 
+🚀 Let's Code and Shop! 🛒✨
